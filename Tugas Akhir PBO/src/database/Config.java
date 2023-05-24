@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 import java.sql.*;
 /**
  *Driver class	com.mysql.cj.jdbc.Driver
- * @author NANANG TRI HANDOYO
+ * @author WIN 10
  */
 public class Config {
     Connection conn;
